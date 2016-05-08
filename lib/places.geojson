@@ -1,0 +1,96 @@
+module.exports = {
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Helsinki"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.94368553161621,
+          60.16681348568901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Turku"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.26705551147461,
+          60.45175795282388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lahti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.656208992004395,
+          60.98360036428153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vaasa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.610965728759766,
+          63.0939428153196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tampere"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.76347064971924,
+          61.49847838910535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kuopio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.6785945892334,
+          62.892323549912774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rovaniemi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.721912384033203,
+          66.4977257619353
+        ]
+      }
+    }
+  ]
+}
