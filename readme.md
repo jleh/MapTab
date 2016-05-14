@@ -1,7 +1,8 @@
-## MapTab
+## FinMapTab
 
-*A simple Chrome extension that shows a random place in the world on a pretty map*
+A fork of [bsudekum/MapTab](https://github.com/bsudekum/MapTab). 
 
-Install via the [Chrome Store](https://chrome.google.com/webstore/detail/maptab/dmabflbokojjfjicmbjjfnmodihciemo)
+*A simple Chrome extension that shows a random Finnish place on map*
 
-[![](https://cldup.com/awOTP-fXZ3.gif)](https://chrome.google.com/webstore/detail/maptab/dmabflbokojjfjicmbjjfnmodihciemo)
+Install via the [Chrome Store](https://chrome.google.com/webstore/detail/finmaptab/gchdfghmhfgcgjdbeablffhadpijgede)
+
