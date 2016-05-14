@@ -1,14 +1,13 @@
 {
-  "name": "MapTab",
+  "name": "FinMapTab",
   "description": "A tab extension for viewing your current location, date and time.",
-  "short_name": "MapTab",
-  "version": "1.12",
+  "short_name": "FinMapTab",
+  "version": "1.0",
   "incognito": "split",
   "offline_enabled": true,
   "chrome_url_overrides": {
     "newtab": "index.html"
   },
-  "content_security_policy": "script-src 'self' https://wwww.mapbox.com/*; object-src 'self'",
   "permissions": [
     "geolocation",
     "cookies",
@@ -16,9 +15,9 @@
     "tabs"
   ],
   "icons": {
-    "16": "assets/images/icon16.png",
-    "48": "assets/images/icon48.png",
-    "128": "assets/images/icon128.png"
+    "16": "assets/images/fin-icon16.png",
+    "48": "assets/images/fin-icon48.png",
+    "128": "assets/images/fin-icon128.png"
   },
   "manifest_version": 2
 }
